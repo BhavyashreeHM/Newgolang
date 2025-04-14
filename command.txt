@@ -18,3 +18,9 @@ git commit -m "command.txt is command file"    - commit
            nothing to commit, wokring tree is free
 
 git log = it shows whatever you did
+
+
+this 2 commands add local to github repo
+git remote add origin https://github.com/BhavyashreeHM/Newgolang.git   -
+ git push -u origin new 
+            
