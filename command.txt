@@ -1,4 +1,10 @@
 commands
+
+ git config --global --list
+
+  git config --global user.name "BhavyashreeHM"
+  git congif --global user.email "bhavyashreehm@gmail.com"
+
 git init
    create git but it is hidden store
 
