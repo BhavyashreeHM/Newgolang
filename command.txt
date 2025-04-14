@@ -22,5 +22,5 @@ git log = it shows whatever you did
 
 this 2 commands add local to github repo
 git remote add origin https://github.com/BhavyashreeHM/Newgolang.git   -
- git push -u origin new 
+ git push -u origin new - this is add local to github repository
             
