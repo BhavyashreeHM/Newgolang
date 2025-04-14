@@ -20,7 +20,10 @@ git commit -m "command.txt is command file"    - commit
 git log = it shows whatever you did
 
 
-this 2 commands add local to github repo
+this 2 commands add local to github repo +first time
 git remote add origin https://github.com/BhavyashreeHM/Newgolang.git   -
- git push -u origin new - this is add local to github repository
+ git push -u origin new - this is add local to github repository 
+           here origin is the remote repositpory meant github repo
+=second time 
+git push            
             
