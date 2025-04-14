@@ -1,0 +1,14 @@
+commands
+git init
+   create git but it is hidden store
+
+change branch
+git config --global init.defaultBranch main (from master )
+  or
+git branch -m boss  (boss is name of the branch)
+
+git status - change the status of 
+
+git add .   -  add the recent changes no commit 
+   (. - many files
+    name.txt - single file for ex: git add name.txt )
