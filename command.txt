@@ -14,3 +14,7 @@ git add .   -  add the recent changes no commit - it means staged
     name.txt - single file for ex: git add name.txt )
 
 git commit -m "command.txt is command file"    - commit     
+           shows on branch new( new is branch name it may show anything)
+           nothing to commit, wokring tree is free
+
+git log = it shows whatever you did
