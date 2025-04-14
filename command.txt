@@ -9,6 +9,8 @@ git branch -m boss  (boss is name of the branch)
 
 git status - change the status of 
 
-git add .   -  add the recent changes no commit 
+git add .   -  add the recent changes no commit - it means staged
    (. - many files
     name.txt - single file for ex: git add name.txt )
+
+git commit -m "command.txt is command file"    - commit     
